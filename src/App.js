@@ -15,10 +15,10 @@ function App() {
         <Body>
           <Nav />
           <Switch>
-            <Route exact path="Ashlyn_M_Smith-React_Portfolio/" component={Home} />
+            <Route exact path="/" component={Home} />
             {/* <Route exact path="/home" component={Home} /> */}
-            <Route exact path="Ashlyn_M_Smith-React_Portfolio/portfolio" component={Portfolio} />
-            <Route exact path="Ashlyn_M_Smith-React_Portfolio/contact" component={Contact} />
+            <Route exact path="/portfolio" component={Portfolio} />
+            <Route exact path="/contact" component={Contact} />
           </Switch>
           <Footer />
         </Body>
