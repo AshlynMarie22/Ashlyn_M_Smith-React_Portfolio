@@ -19,9 +19,11 @@ const Home = () => {
   return (
     <div>
       <Container
+      className="container"
       id="portfolio">
           
-      <Header><h2 class="h2">Portfolio</h2></Header>
+      <Header><h2 className="h2">Portfolio</h2></Header>
+      
       {allResources.map((resource) => {
               return <PortfolioContainer 
               key={resource.id}
@@ -31,6 +33,7 @@ const Home = () => {
               name={resource.name}
               />;
               })}
+            
     </Container>
       
     </div>

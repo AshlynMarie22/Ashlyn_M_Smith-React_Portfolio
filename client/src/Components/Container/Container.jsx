@@ -1,8 +1,9 @@
 import React from "react";
+import "./Container.css"
 
 function Container(props) {
     return (
-<main class="container" >{props.children}
+<main className="container" id={props.children}>{props.children}
 </main>
   );
 }
