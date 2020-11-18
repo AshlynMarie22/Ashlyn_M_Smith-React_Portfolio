@@ -16,7 +16,7 @@ This project had us build a responsive portfolio with an About Me Page, Portfoli
 Clone this repo by using:
 
 ```bash
-git clone https://github.com/AshlynMarie22/Ashlyn_Smith-s_Portfolio.git
+git clone https://github.com/AshlynMarie22/Ashlyn_M_Smith-React_Portfolio.git
 ```
 
 Next check to make sure there weren't any problems:
@@ -53,7 +53,7 @@ Then right click anywhere in the html file and select "Open in Default Browser":
 
 Website URL: 
 ```bash
-https://ashlynmarie22.github.io/Ashlyn_Smith-s_Portfolio/
+https://ashlynmarie22.github.io/Ashlyn_M_Smith-React_Portfolio/
 ```
 ### About Me Page:
 ![aboutmepage](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-09-01+at+8.29.18+PM.png)
