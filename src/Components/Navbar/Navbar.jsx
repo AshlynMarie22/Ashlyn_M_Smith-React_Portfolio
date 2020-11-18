@@ -25,7 +25,7 @@ const Navbar = () => {
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item ml-auto">
-            <Link className="nav-link" to="/home">
+            <Link className="nav-link" to="/">
               About
             </Link>
           </li>
