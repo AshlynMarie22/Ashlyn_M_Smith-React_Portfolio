@@ -1,6 +1,9 @@
 body {
-  background-image: URL("client/pexels-madison-inouye-1831234.jpg");
-  z-index: -5;
+  background-image: url("https://ashlynimages.s3.us-east-2.amazonaws.com/75-755775_dots-2-watercolor-black-polka-dots.png")no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .App {

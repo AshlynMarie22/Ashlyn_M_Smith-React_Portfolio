@@ -4,7 +4,15 @@ import "./AboutMe.css";
 const AboutMe = () => {
   return (
     <>
-      <div className="center row aboutMe">
+    <div className="maindiv">
+    <img
+            className="center row circle"
+            src="https://ashlynimages.s3.us-east-2.amazonaws.com/Untitled.png"
+            alt="Ashlyn Smith"
+            // style="border-radius: 50%"
+          />
+      <div className="center row aboutMe" >
+      
         <div className="col-12">
           <img
             className="img img-aboutme"
@@ -40,11 +48,11 @@ const AboutMe = () => {
             new career.
           </p>
         </div>
-      </div>
+      
       <div className="row">
         <div className="col-3"></div>
         <div className="col-2">
-          <a href="https://www.linkedin.com/in/ashlynmsmith2/" target="_blank">
+          <a href="https://www.linkedin.com/in/ashlynmsmith2/" target="https://www.linkedin.com/in/ashlynmsmith2/">
             <i
               className="fab fa-linkedin fa-2x"
               // style="color: #7d6d61"
@@ -54,7 +62,7 @@ const AboutMe = () => {
         <div className="col-2">
           <a
             href="https://ashlynimages.s3.us-east-2.amazonaws.com/Ashlyn+M+Smith+Resume.pdf"
-            target="_blank"
+            target="https://ashlynimages.s3.us-east-2.amazonaws.com/Ashlyn+M+Smith+Resume.pdf"
           >
             <i
               className="far fa-file-pdf fa-2x"
@@ -65,7 +73,7 @@ const AboutMe = () => {
           </a>
         </div>
         <div className="col-2">
-          <a href="https://github.com/AshlynMarie22" target="_blank">
+          <a href="https://github.com/AshlynMarie22" target="https://github.com/AshlynMarie22">
             <i
               className="fab fa-github fa-2x"
               // style="color: #7d6d61"
@@ -73,6 +81,8 @@ const AboutMe = () => {
           </a>
         </div>
         <div className="col-3"></div>
+      </div>
+      </div>
       </div>
     </>
   );
