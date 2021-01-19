@@ -25,4 +25,5 @@ a:hover {
 }
 .navbar.navbar-expand-lg.navbar-light {
   background-color: #d2fdff !important;
+  opacity: 90%;
 }
