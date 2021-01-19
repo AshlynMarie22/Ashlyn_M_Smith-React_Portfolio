@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ashlynmarie22.github.io/Ashlyn_M_Smith-React_Portfolio/",
+  "homepage": "https://ashlynmarie22.github.io/Ashlyn_M_Smith-React_Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
