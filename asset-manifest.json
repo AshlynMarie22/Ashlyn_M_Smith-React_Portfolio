@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Ashlyn_M_Smith-React_Portfolio/static/css/main.8bcbd3f9.chunk.css",
-    "main.js": "/Ashlyn_M_Smith-React_Portfolio/static/js/main.31257c34.chunk.js",
-    "main.js.map": "/Ashlyn_M_Smith-React_Portfolio/static/js/main.31257c34.chunk.js.map",
+    "main.css": "/Ashlyn_M_Smith-React_Portfolio/static/css/main.e682ddc4.chunk.css",
+    "main.js": "/Ashlyn_M_Smith-React_Portfolio/static/js/main.c4ae968c.chunk.js",
+    "main.js.map": "/Ashlyn_M_Smith-React_Portfolio/static/js/main.c4ae968c.chunk.js.map",
     "runtime-main.js": "/Ashlyn_M_Smith-React_Portfolio/static/js/runtime-main.0bd69d78.js",
     "runtime-main.js.map": "/Ashlyn_M_Smith-React_Portfolio/static/js/runtime-main.0bd69d78.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Ashlyn_M_Smith-React_Portfolio/static/css/2.1a02f21c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.d04be0c6.chunk.js.map": "/Ashlyn_M_Smith-React_Portfolio/static/js/3.d04be0c6.chunk.js.map",
     "index.html": "/Ashlyn_M_Smith-React_Portfolio/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/Ashlyn_M_Smith-React_Portfolio/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.8bcbd3f9.chunk.css.map": "/Ashlyn_M_Smith-React_Portfolio/static/css/main.8bcbd3f9.chunk.css.map",
+    "static/css/main.e682ddc4.chunk.css.map": "/Ashlyn_M_Smith-React_Portfolio/static/css/main.e682ddc4.chunk.css.map",
     "static/js/2.447c40be.chunk.js.LICENSE.txt": "/Ashlyn_M_Smith-React_Portfolio/static/js/2.447c40be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0bd69d78.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.447c40be.chunk.js",
-    "static/css/main.8bcbd3f9.chunk.css",
-    "static/js/main.31257c34.chunk.js"
+    "static/css/main.e682ddc4.chunk.css",
+    "static/js/main.c4ae968c.chunk.js"
   ]
 }
